@@ -38,7 +38,7 @@ Customer-Insurance-Purchase-Prediction/
 
 ##  How to Run
 1. Clone the repository:
-   git clone https://github.com/yourusername/Customer-Insurance-Purchase-Prediction.git
+   git clone https://github.com/Vishwagna-Aligety/Customer_Insurance_Prediction/tree/main
 2. Open Customer_Insurance_Prediction.ipynb in Google Colab or Jupyter Notebook.
 3. Run all cells to train models and generate predictions.
 
